@@ -1,0 +1,10 @@
+.gg {
+    position: relative;
+}
+
+#abbr {
+    position: absolute;
+    left: 370px;
+    top: 125px;
+    color: blue;
+}
